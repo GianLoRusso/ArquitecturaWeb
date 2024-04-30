@@ -1,0 +1,38 @@
+p{
+    text-align: left;
+  white-space: normal;
+}
+body{
+    max-width: 600px;
+}
+h1{
+    width: 500px;
+    background-color: #ccc;
+}
+.cursiva_celeste{
+    font-style: italic;
+    color:#4285f4
+}
+.fondo_verde{
+    background-color: #00ff00;
+}
+.texto_naranja{
+    color:#d9534f;
+    font-weight: bold;
+}
+.titulo{
+    font-weight:bold;
+    text-decoration:underline; 
+}
+.fondo_amarillo{
+    background-color:yellow;
+}
+.texto_rojo{
+    color:red
+}
+.fondo_celeste{
+    background-color:#00ffff;
+}
+.tachado{
+    text-decoration: line-through
+}
